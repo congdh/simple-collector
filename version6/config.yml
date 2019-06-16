@@ -1,0 +1,4 @@
+output:
+  console: true
+  file:
+    filename: out.log
